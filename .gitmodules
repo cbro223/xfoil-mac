@@ -1,0 +1,3 @@
+[submodule "Xfoil-for-Mac"]
+	path = Xfoil-for-Mac
+	url = https://github.com/nolankucd/Xfoil-for-Mac
