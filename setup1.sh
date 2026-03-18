@@ -1,3 +1,4 @@
+cd .. 
 if [ -f "BEM.m" ]; then
     echo ""
 else
@@ -15,6 +16,8 @@ brew install xquartz
 
 
 mv ./xfoil-mac/xfoil.m ./xfoil/xfoil.m
+
+cd ./xfoil-mac
 
 sh setupxfoil.sh
 
